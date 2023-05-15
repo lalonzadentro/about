@@ -3,7 +3,7 @@
 ### 🛠 **Tech Stack**
 
 * **Python**: Pandas, NumPy, Seaborn, Matplotlib, Scikit-learn
-* **SQL**: DML (Subqueries, Window functions, CTE, IF, CASE WHEN, UNION, INTERSECT, EXCEPT), DDL
+* **SQL**: ~~DML (~~Subqueries, Window functions, CTE, IF, CASE WHEN, UNION, INTERSECT, EXCEPT~~), DDL~~
 * MS Excel~~: VLOOKUP, PivotTables, Power Query, Power Pivot, VBA (basic)~~
 * Google Analytics, Looker Studio
 * ~~BigQuary~~
@@ -13,17 +13,15 @@
 
 ### 📁 Portfolio Projects
 
-
-MS Excel
-SQL
-Tableau
-👔 Work experience
-Job Position	Company	Department \ Division	Work Period
-Trainee Data Analyst	Nestlé	Sales Dpt. \ Reporting Div.	06.2022 - present
-Intern Analyst	EVA Technologies	Analytics	11.2020 - 03.2021
+- SQL queries
+- Web Scraping
+- Data Analysis
+- Data Visualisation
+- Data Modelling
 
 
-📜 Certifications
+
+### 📜 Certifications
 Stepik
 Basic Python, Python Programming, Good, Good Python by Sergey Balakirev
 Basic SQL
