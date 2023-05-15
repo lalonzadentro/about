@@ -1,7 +1,7 @@
 # Hello! I am Anastasia and I'm a data analyst
 👋 Hi there!
 
-🛠 **Stack
+🛠 **Stack**
 
 Python: NumPy, SymPy, SciPy, Pandas, Seaborn, Matplotlib
 SQL: DML (Subquery, JOIN, GROUP BY), DDL
