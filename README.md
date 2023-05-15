@@ -5,7 +5,7 @@ As a data-driven Data Analyst with over 2 years of experience, I possess strong 
 ### 🛠 **Tech Stack**
 
 * **Python**: Pandas, NumPy, Seaborn, Matplotlib, Scikit-learn
-* **SQL**: ~~DML (~~Subqueries, Window functions, CTE, IF, CASE WHEN, UNION, INTERSECT, EXCEPT~~), DDL~~
+* **SQL**: Subqueries, Window functions, CTE, IF, CASE WHEN, UNION, INTERSECT, EXCEPT
 * MS Excel~~: VLOOKUP, PivotTables, Power Query, Power Pivot, VBA (basic)~~
 * Google Analytics, Looker Studio
 * ~~BigQuary~~
