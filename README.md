@@ -21,13 +21,8 @@ Tableau
 Job Position	Company	Department \ Division	Work Period
 Trainee Data Analyst	Nestlé	Sales Dpt. \ Reporting Div.	06.2022 - present
 Intern Analyst	EVA Technologies	Analytics	11.2020 - 03.2021
-🎓 Education
-Bachelor's degree in Mathematics at Peoples' Friendship University of Russia (2017 - 2021)
-Diploma thesis: "Mathematical Modeling of Autowave Processes"
-Courseworks:
-Mathematical analysis: "Approximate Calculation of Integrals: Midpoint, Trapezoid, Simpson's rule"
-Algebra: "Pell's equation"
-Differential equations: "Bernoulli's Equation"
+
+
 📜 Certifications
 Stepik
 Basic Python, Python Programming, Good, Good Python by Sergey Balakirev
