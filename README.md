@@ -3,7 +3,7 @@
 
 🛠 **Tech Stack**
 
-*Python: Pandas, NumPy, Seaborn, Matplotlib
+* Python: Pandas, NumPy, Seaborn, Matplotlib
 SQL: DML (Subqueries, Window functions, CTE, IF, CASE WHEN, UNION, INTERSECT, EXCEPT), DDL
 
 MS Excel: VLOOKUP, PivotTables, Power Query, Power Pivot, VBA (basic)
