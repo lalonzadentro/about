@@ -4,12 +4,14 @@
 🛠 **Tech Stack**
 
 * Python: Pandas, NumPy, Seaborn, Matplotlib
-SQL: DML (Subqueries, Window functions, CTE, IF, CASE WHEN, UNION, INTERSECT, EXCEPT), DDL
+* SQL: DML (Subqueries, Window functions, CTE, IF, CASE WHEN, UNION, INTERSECT, EXCEPT), DDL
+* MS Excel: VLOOKUP, PivotTables, Power Query, Power Pivot, VBA (basic)
+* Google Analytics, Looker Studio
+* BigQuary
+* Google Sheets
+* Power BI, Tableau
+* Git, Docker (basic)
 
-MS Excel: VLOOKUP, PivotTables, Power Query, Power Pivot, VBA (basic)
-Google Sheets
-Power BI, Tableau
-Git, Docker (basic)
 📁 Junior Analyst Portfolio ru
 During the interviews, I solved problems using certain analytics tools. You can get acquainted about it in the corresponding repository.
 
