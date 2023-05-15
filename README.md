@@ -2,6 +2,7 @@
 👋 Hi there!
 
 🛠 Stack
+
 Python: NumPy, SymPy, SciPy, Pandas, Seaborn, Matplotlib
 SQL: DML (Subquery, JOIN, GROUP BY), DDL
 MS Excel: VLOOKUP, PivotTables, Power Query, Power Pivot, VBA (basic)
