@@ -15,7 +15,7 @@
 
 - [SQL queries](https://github.com/lalonzadentro/Data-Analyst-Portfolio/tree/main/SQL%20queries)
 - [Web Scraping](https://github.com/lalonzadentro/Data-Analyst-Portfolio/tree/main/Web%20Scraping)
-- Data Analysis
+- [Data Analysis](https://github.com/lalonzadentro/Data-Analyst-Portfolio/tree/main/Data%20Analysis%20with%20Python)
 - Data Visualisation
 - Data Modelling
 
