@@ -1,13 +1,13 @@
 # Hello! I am Anastasia and I'm a data analyst
 👋 Hi there!
 
-🛠 **Stack**
+🛠 **Tech Stack**
 
-Python: NumPy, SymPy, SciPy, Pandas, Seaborn, Matplotlib
-SQL: DML (Subquery, JOIN, GROUP BY), DDL
+Python: Pandas, NumPy, Seaborn, Matplotlib
+SQL: DML (Subqueries, Window functions, CTE, IF, CASE WHEN, UNION, INTERSECT, EXCEPT), DDL
 MS Excel: VLOOKUP, PivotTables, Power Query, Power Pivot, VBA (basic)
 Google Sheets
-Power BI, Tableau (basic)
+Power BI, Tableau
 Git, Docker (basic)
 📁 Junior Analyst Portfolio ru
 During the interviews, I solved problems using certain analytics tools. You can get acquainted about it in the corresponding repository.
