@@ -14,7 +14,7 @@
 ### 📁 Portfolio Projects
 
 - [SQL queries](https://github.com/lalonzadentro/Data-Analyst-Portfolio/tree/main/SQL%20queries)
-- [Web Scraping[(https://github.com/lalonzadentro/Data-Analyst-Portfolio/tree/main/Web%20Scraping)
+- [Web Scraping](https://github.com/lalonzadentro/Data-Analyst-Portfolio/tree/main/Web%20Scraping)
 - Data Analysis
 - Data Visualisation
 - Data Modelling
