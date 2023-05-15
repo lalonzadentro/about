@@ -4,12 +4,12 @@
 
 * **Python**: Pandas, NumPy, Seaborn, Matplotlib, Scikit-learn
 * **SQL**: DML (Subqueries, Window functions, CTE, IF, CASE WHEN, UNION, INTERSECT, EXCEPT), DDL
-* MS Excel: VLOOKUP, PivotTables, Power Query, Power Pivot, VBA (basic)
+* MS Excel~~: VLOOKUP, PivotTables, Power Query, Power Pivot, VBA (basic)
 * Google Analytics, Looker Studio
-* BigQuary
-* Google Sheets
-* **Data Visualisation**: Power BI, Tableau
-* Git, Docker (basic)
+* ~~BigQuary
+* ~~Google Sheets
+* **Data Visualisation**: Tableau, Power BI
+* ~~Git, Docker (basic)
 
 ### 📁 Portfolio Projects
 
