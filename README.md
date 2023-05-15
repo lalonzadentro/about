@@ -1,5 +1,5 @@
-# Hello! I am Anastasia and I'm a data analyst
-👋 Hi there!
+# Data Analyst Portfolio
+👋 ## Hello! My name is Anastasia Alekseeva and I am a data analyst
 
 🛠 **Tech Stack**
 
