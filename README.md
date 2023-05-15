@@ -39,6 +39,7 @@ Python for Beginners
 Other
 Basic Excel
 Advanced Excel
-💬 Contacts
-Telegram: @proshlil
-E-mail: prosh-liliya@mail.ru
+### 💬 Contacts
+Email: anastasia.aleks.pro@gmail.com
+Limkedin: https://www.linkedin.com/in/lalonzadentro/
+
