@@ -12,8 +12,8 @@
 * **Data Visualisation**: Power BI, Tableau
 * Git, Docker (basic)
 
-📁 Junior Analyst Portfolio ru
-During the interviews, I solved problems using certain analytics tools. You can get acquainted about it in the corresponding repository.
+### 📁 Portfolio Projects
+
 
 MS Excel
 SQL
