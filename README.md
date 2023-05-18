@@ -2,7 +2,7 @@
 As a data-driven Data Analyst with over 2 years of experience, I possess strong skills in data analysis. Since my main focus is marketing analytics I also have a deep knowledge of content and digital marketing. I have a keen eye for detail and the ability to communicate findings effectively. I am passionate about optimising content performance and driving revenue growth.
 
 
-### 🛠 Tech Stack
+### 🐍 Tech Stack
 
 * **Python**: Pandas, NumPy, Seaborn, Matplotlib, Scikit-learn
 * **SQL**: Subqueries, Window functions, CTE, IF, CASE WHEN, UNION, INTERSECT, EXCEPT
