@@ -3,7 +3,7 @@ As a data-driven Data Analyst with over 2 years of experience, I possess strong 
 
 ### 📋 CV
 
-Link to CV
+Link to CV (pdf)
 
 
 ### 🐍 Tech Stack
