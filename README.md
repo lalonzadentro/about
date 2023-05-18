@@ -31,7 +31,7 @@ As a data-driven Data Analyst with over 2 years of experience, I possess strong 
 
 🔗 Linkedin: https://www.linkedin.com/in/lalonzadentro/
 
-✍️ Blog on Medium:
+✍️ Blog on Medium: https://medium.com/@lalonzadentro
 
-🐦: Blog on Twitter
+🐦: Blog on Twitter: https://twitter.com/lalonzadentro
 
