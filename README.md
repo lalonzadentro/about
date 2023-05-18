@@ -21,8 +21,8 @@ As a data-driven Data Analyst with over 2 years of experience, I possess strong 
 
 
 ### 🧠 Certifications
-* Data Scientist: Analytics, Code Academy, 2023
-* Data Analysis with Python, Free Code Camp, 2022
+* 'Data Scientist: Analytics' – Code Academy, 2023
+* 'Data Analysis with Python' – Free Code Camp, 2022
 
 
 
