@@ -32,7 +32,6 @@ Link to CV
 
 ### 💬 Contacts
 ＠ Email: anastasia.aleks.pro@gmail.com
-
 🔗 Linkedin: https://www.linkedin.com/in/lalonzadentro/
 
 ✍️ Blog on Medium: https://medium.com/@lalonzadentro
