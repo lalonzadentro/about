@@ -6,12 +6,9 @@ As a data-driven Data Analyst with over 2 years of experience, I possess strong 
 
 * **Python**: Pandas, NumPy, Seaborn, Matplotlib, Scikit-learn
 * **SQL**: Subqueries, Window functions, CTE, IF, CASE WHEN, UNION, INTERSECT, EXCEPT
-* MS Excel~~: VLOOKUP, PivotTables, Power Query, Power Pivot, VBA (basic)~~
-* Google Analytics, Looker Studio
-* ~~BigQuary~~
-* ~~Google Sheets~~
 * **Data Visualisation**: Tableau, Power BI
-* ~~Git, Docker (basic)~~
+* MS Excel, Google Sheets
+* Google Analytics, Looker Studio
 
 ### 📁 Portfolio Projects
 
