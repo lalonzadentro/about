@@ -1,6 +1,8 @@
 ## 👋 Hello! My name is Anastasia Alekseeva and I am a data analyst
 As a data-driven Data Analyst with over 2 years of experience, I possess strong skills in data analysis. Since my main focus is marketing analytics I also have a deep knowledge of content and digital marketing. I have a keen eye for detail and the ability to communicate findings effectively. I am passionate about optimising content performance and driving revenue growth.
 
+### 📋 CV
+
 
 ### 🐍 Tech Stack
 
