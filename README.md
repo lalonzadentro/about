@@ -27,7 +27,11 @@ As a data-driven Data Analyst with over 2 years of experience, I possess strong 
 
 
 ### 💬 Contacts
-Email: anastasia.aleks.pro@gmail.com
+＠ Email: anastasia.aleks.pro@gmail.com
 
-Linkedin: https://www.linkedin.com/in/lalonzadentro/
+🔗 Linkedin: https://www.linkedin.com/in/lalonzadentro/
+
+✍️ Blog on Medium:
+
+🐦: Blog on Twitter
 
