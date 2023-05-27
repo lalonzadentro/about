@@ -14,7 +14,7 @@ Link to CV (pdf)
 * **SQL**: Subqueries, Window functions, CTE, IF, CASE WHEN, UNION, INTERSECT, EXCEPT
 * **Data Visualisation**: Tableau, Power BI
 * MS Excel, Google Sheets
-* Google Analytics, Looker Studio
+* Google Analytics
 
 ### 📊 Portfolio Projects
 
