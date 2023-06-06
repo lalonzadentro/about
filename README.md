@@ -1,5 +1,5 @@
 ## 👋 Hello! My name is Anastasia Alekseeva and I am a data analyst
-As a data-driven Data Analyst with over 2 years of experience, I possess strong skills in data analysis.
+I am a Data Analyst with 2+ years of experience in analytics and marketing, my main area of expertise lies in the SAAS industry. I work at the global company that makes a no-code web platform, and has users all over the world. I have a high level of proficiency in Excel, SQL and Python, an excellent command of Tableau, and a familiarity with predictive data models (linear regression in particular).
 
 Above from data analysis, I'm curious about web-scraping and machine laerning.
 
