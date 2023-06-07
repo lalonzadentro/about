@@ -13,7 +13,7 @@ Link to CV (pdf)
 * **Python**: Pandas, NumPy, Seaborn, Matplotlib, Scikit-learn
 * **SQL**: Subqueries, Window functions, CTE, IF, CASE WHEN, UNION, INTERSECT, EXCEPT
 * **Data Visualisation**: Tableau, Power BI
-* MS Excel, Google Sheets
+* MS Excel, Google Sheets: VLOOKUP, Pivot tables, Queries
 * Google Analytics, ads managers' tools  of Meta (Facebook and Instagram), Linkedin, Twitter and Google
 
 ### 📊 Portfolio Projects
