@@ -38,5 +38,3 @@ Link to CV (pdf)
 
 ✍️ Blog on Medium: https://medium.com/@lalonzadentro
 
-🐦: Blog on Twitter: https://twitter.com/lalonzadentro
-
