@@ -11,7 +11,7 @@
 ### 🐍 Tech Stack
 
 * **Python**: Pandas, NumPy, Seaborn, Matplotlib, Scikit-learn
-* * **SQL**: Подзапросы, оконные функции, CTE, IF, CASE WHEN, UNION, INTERSECT, EXCEPT
+* **SQL**: Подзапросы, оконные функции, CTE, IF, CASE WHEN, UNION, INTERSECT, EXCEPT
 * **Визуализация данных**: Tableau
 * MS Excel, Google Sheets: VLOOKUP, Pivot tables, Queries
 * Google Analytics, инструменты менеджеров по рекламе Meta (Facebook и Instagram), Linkedin, Twitter и Google Ads
