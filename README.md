@@ -15,7 +15,7 @@
 * MS Excel, Google Sheets: VLOOKUP, Pivot tables, Queries
 * Amplitude, Rick, Google Analytics, инструменты менеджеров по рекламе Meta (Facebook и Instagram), Linkedin, Twitter и Google Ads
 
-### 📊 Портфолио
+### 💼 Портфолио
 
 - [SQL-запросы](https://github.com/lalonzadentro/Data-Analyst-Portfolio/tree/main/SQL%20queries)
 - [Web Scraping](https://github.com/lalonzadentro/Data-Analyst-Portfolio/tree/main/Web%20Scraping)
