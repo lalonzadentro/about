@@ -13,8 +13,8 @@
 * **SQL**: Подзапросы, оконные функции, CTE, IF, CASE WHEN, UNION, INTERSECT, EXCEPT
 * **Визуализация данных**: Tableau
 * MS Excel, Google Sheets: VLOOKUP, Pivot tables, Queries
-* Amplitude, Rick, Google Analytics, инструменты менеджеров по рекламе Meta (Facebook и Instagram), Linkedin, Twitter и Google Ads
-
+* Amplitude, Rick, Google Analytics
+  
 ### 💼 Портфолио
 
 - [SQL-запросы](https://github.com/lalonzadentro/Data-Analyst-Portfolio/tree/main/SQL%20queries)
