@@ -4,7 +4,7 @@
 
 ### 📋 Резюме
 
-Ссылка на резюме (pdf)
+[Ссылка на резюме]([pdf](https://drive.google.com/file/d/1EggDlFbNzWjSZhqegP6i0mStKhkIZpOP/view?usp=sharing)
 
 
 ### 🐍 Tech Stack
