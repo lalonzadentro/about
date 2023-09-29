@@ -19,7 +19,7 @@
 
 - [SQL-запросы](https://github.com/lalonzadentro/Data-Analyst-Portfolio/tree/main/SQL%20queries)
 - [Web Scraping](https://github.com/lalonzadentro/Data-Analyst-Portfolio/tree/main/Web%20Scraping)
-- [Анализ данных и ML](https://github.com/lalonzadentro/Data-Analyst-Portfolio/tree/main/Data%20Analysis%20with%20Python)
+- [Анализ данных и ML]([https://github.com/lalonzadentro/Data-Analyst-Portfolio/tree/main/Data%20Analysis%20with%20Python](https://github.com/lalonzadentro/Data-Analyst-Portfolio/tree/main/Projects))
 - [Визуализация данных](https://github.com/lalonzadentro/Data-Analyst-Portfolio/tree/main/Data%20Visualization)
 
 ### 🧠 Дополнительное образование
